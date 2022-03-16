@@ -1,2 +1,3 @@
-# Optimization_algorithms
-Some optimization algorithms
+# 一些有趣的优化算法
+
+下载代码时记得下载fit文件
